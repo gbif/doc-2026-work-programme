@@ -1,9 +1,9 @@
-= GBIF Work Programme 2025: Annual Update and Implementation Plan to the Strategic Framework 2023–2027
+= GBIF Work Programme 2026: Annual Update and Implementation Plan to the Strategic Framework 2023–2027
 :toc: left
 :toclevels: 2
 :numbered:
 :revnumber: 1.0
-:revdate: 3 October 2024
+:revdate: 8 August 2025
 :title-logo-image: img/web/logo-gbif.svg
 :icons: font
 :pagenums:
@@ -15,8 +15,6 @@ languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:
-
-include::preface.en.adoc[]
 
 include::100.en.adoc[]
 

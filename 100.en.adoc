@@ -11,32 +11,34 @@
 *	Knowledge gaps are reduced by consolidating data coverage across the thematic areas of relevance
 *	GBIF’s relevance to research is enhanced, through increased recognition and uptake of GBIF mediated data among researchers across additional scientific disciplines
 
-==== Indicative tasks for 2025
+==== Indicative tasks for 2026
 
-*	Complete and coordinate publication of the peer-reviewed systematic review of GBIF-enabled research to identify usage trends in 2020–2024 to help prioritize outreach to thematic communities
-* Coordinate preparation and publication of a collection of peer-reviewed papers describing key elements of the GBIF network and infrastructure
-* Engage high-priority thematic communities based on recommendations from the Science Committee and establish new consultations with subject experts, data holders, data users and other communities on key topics, including agrobiodiversity, biodiversity loss and marine biodiversity (in collaboration with https://obis.net[Ocean Biodiversity Information System^] (OBIS))
-* Cultivate and support discussions, knowledge exchange and engagement with and within thematic communities, both existing and new; ensure continued flows of data and up-to-date guidance; explore options for wider thematic reporting and discoverability, including on data gaps and biases
-* Consolidate data flows relating to vectors of human diseases through the https://www.gatesfoundation.org/about/committed-grants/2022/04/inv021972[Vector Atlas^] project, EFSA's One Health / VectorNet collaboration; and updates of VectorBase while implementing  recommendations from the the https://www.gbif.org/news/4jj1iKMn5llVnM6cUr8Y2m/[GBIF task group on vectors of human diseases^] 
-* Explore the usability and accessibility of the GBIF infrastructure for researchers, initiate discussion with all communities and provide recommendations for improvements to tools and processes
+* Consolidate scientific expertise across the GBIF network—including researchers from national participants, thematic community experts, the Science Committee, and the GBIF Secretariat—to support development of strategic documents, communications, and improvements to GBIF-mediated data and services
+* Expand GBIF’s relevance by engaging high-priority thematic communities of practice, including agrobiodiversity; support knowledge exchange, data flow, and community engagement; and advance thematic reporting, data discoverability, and identification of data gaps and biases
+* Explore and map established and emerging data practices in global research; assess the usability and accessibility of GBIF infrastructure for researchers; and recommend improvements to tools and processes.
+* Identify opportunities to integrate content from existing biodiversity data networks and repositories into GBIF, and demonstrate the benefits of increased visibility through the GBIF platform
+* Ensure GBIF’s leadership by advocating for and participating in global initiatives that promote open science and open data
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.
+<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project. -->
 
 [[activity1-2]]
-=== Activity 1.2: Advance GBIF’s contribution to latest biodiversity modelling approaches
+=== Activity 1.2: Advance GBIF’s capacity to mediate biodiversity survey and monitoring data and increase the spatiotemporal and taxonomic breadth of survey and monitoring data mediated by GBIF
 
 ==== Projected outcomes for 2027
 
-* GBIF supports the evolution of fundamental data-driven biodiversity research and its application across methods, scales and disciplines in life and environmental sciences
+* Reduce knowledge gaps by helping the network to set targets for consolidating data coverage across thematic, taxonomic, phylogenetic, spatial and temporal dimensions
+* Enable, expand and diversify the uptake and application of GBIF-mediated data
 
 ==== Indicative tasks for 2025
 
-* Complete prototype digital twins dependent on and coordinated by GBIF through partnership on https://biodt.eu/[BioDT^] report and disseminate lessons learned
-* Continue engagement and showcase representation of sampling-event data through GBIF; scale up data flows from ecological research, survey and monitoring data communities; improve and expand interoperability with partner infrastructures; and run workshops that broaden data publishing models and produce example datasets
-* Run a data republication campaign to convert existing occurrence datasets and increase its value through use of the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]; develop tools and strategies for encouraging holders of survey and monitoring datasets not yet in GBIF to share them 
-* Contribute to development and updating of documentation, templates and training materials for publishing and accessing survey and monitoring data through GBIF
+* Demonstrate publishing of survey and monitoring data in Darwin Core Archive (DwC-A) format from all continents and realms; explore streamlining data pipelines to enhance interoperability with new and existing publishing institutions (e.g. eLTER, NEON, EDI)
+* Support the implementation of the data model by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing
+* Inform infrastructure development to support both event-centric DwC-A data and Darwin Core Data Package (DwC-DP) data, including ingestion, discoverability, display and access
+* Update existing and develop new training materials and use cases to support the publishing and access of survey and monitoring data through GBIF
+* Showcase sampling-event data representation using both existing and new data models in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., ESA, Society for Tropical Ecology, ICES Annual Science Conference)
+* Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds.
+<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds.-->
 
 [[activity1-3]]
 === Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
@@ -44,32 +46,35 @@
 ==== Projected outcomes for 2027
 
 * Knowledge gaps are reduced by consolidating data coverage across the thematic areas of relevance
-GBIF’s relevance to research is enhanced, through increased recognition and uptake of GBIF-mediated data among researchers across additional scientific disciplines
+* GBIF’s relevance to research is enhanced, through increased recognition and uptake of GBIF-mediated data among researchers across additional scientific disciplines
 
 ==== Indicative tasks for 2025
 
-* Continue engagement and improve coverage and quality of data representation in GBIF from metabarcoding research and eDNA monitoring, expand interoperability with partner infrastructures
-* Improve and update guidance materials for data publishing and accessing DNA-derived data through GBIF
-* Strengthen collaborations with DNA barcoding communities and reference sequence libraries, including those that use operational taxonomic units (OTU)
-* Lead experiment towards an index of marker gene sequences including DNA barcodes and amplicon sequence variants (ASVs)
-* Analyse feasibility of a standard format for DNA-reference datasets that credits citations to contributors and publishers
+* Continue engagement targeting improvements in data coverage and quality from DNA-derived research and monitoring, including through expanded interoperability with partner infrastructures
+* Lead the development and implementation of infrastructure for sequence-based occurrence search and improvement of filtering and download options for DNA-derived data
+* Prototype functionalities required for ongoing taxonomic reinterpretation and standardization of DNA-derived data
+* Explore the feasibility of managing and/or hosting a global catalogue of DNA reference libraries to enhance the interpretability and reuse of sequence-based biodiversity evidence
+* Engage with major data providers and repositories of DNA sequences to scale up and improve data publishing pipelines and mobilize additional DNA-derived biodiversity data into GBIF
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds. 
+<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds. -->
 
 [[activity1-ongoing]]
 === Ongoing activities to support science and research
 
-* Explore and document data originator and data user needs in the GBIF network, across DNA data infrastructures, and in the eDNA community, including needs of international and national initiatives, of organizations, and of individual researchers
-* Build, develop and consult around survey and monitoring data to assess and understand community needs for sampling-event data 
-* Support community standards development for priority data areas—such as invasive and alien species, interactions, survey and monitoring data, and DNA—through TDWG and other standards communities
-* Communicate progress with DNA-derived, survey and monitoring, and other thematic communities to the GBIF network and partners
-* Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research 
-* Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
-* Highlight and illustrate uses of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual Science Review
-* Increase academic visibility of data and of GBIF contributions of individuals, organizations (including funders) and projects within GBIF.org through the use of  relevant infrastructures  (e.g. https://orcid.org/[ORCID^], https://ror.org/[Research Organization Registry^] (ROR), https://www.crossref.org/services/funder-registry/[Open Funder Registry ^](OFR))
-* Capture needs and suggestions from research communities regarding the development of the GBIF data model
-* Ensure presence of GBIF representatives— including through Secretariat and node staff, regional contractors — at relevant scientific conferences with appropriate communication materials, presentations and training workshops
-* Run annual competitions through the https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] and https://www.gbif.org/graduate-researchers-award[Graduate Researchers Awards^]
-* Support GBIF network to integrate data and GBIF training into higher education programmes and professional development of the early career researchers of biodiversity
-* Maintain GBIF’s compliance with FAIR principles for scientific data management and stewardship under continuous review, with appropriate communication and certification for relevant projects and processes
-* Review and process datasets reported through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to increase ingestion of thematic data into GBIF
+* Provide scientific advice and recommendations on feasibility and research relevance to support GBIF’s involvement in relevant projects under the Work Programme
+* Maintain and update guides, training materials, and other resources aimed at research audiences
+* Monitor the needs of data originators and users across the GBIF network, including survey and monitoring partners, DNA data infrastructures, the eDNA community, and international and national initiatives
+* Capture and incorporate feedback from research communities to inform the ongoing development of the GBIF data model
+* Support the development and maintenance of community standards for priority data areas—such as invasive and alien species, species interactions, survey and monitoring data, and DNA-derived data—through TDWG and other relevant standards bodies
+* Communicate progress on DNA-derived data, survey and monitoring efforts, and other thematic areas to the GBIF network and partners
+* Maintain the GBIF literature tracking programme to document and communicate the use of GBIF-mediated data in research
+* Promote best practices for data citation using digital object identifiers (DOIs), including outreach to researchers and journal publishers
+* Highlight and illustrate the use of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual Science Review
+* Organize annual competitions such as the https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] and https://www.gbif.org/graduate-researchers-award[Graduate Researchers Awards^]
+* Coordinate the collection of peer-reviewed articles and other publications describing key concepts and components of the GBIF network and infrastructure
+* Increase the academic visibility of GBIF data and contributions—by individuals, organizations (including funders), and projects—through integration with infrastructures such as https://orcid.org/[ORCID^], https://ror.org/[Research Organization Registry^] (ROR) and https://www.crossref.org/services/funder-registry/[Open Funder Registry^] (OFR)
+* Review and process submissions through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to expand thematic data represented in GBIF
+* Ensure GBIF representation—including Secretariat staff, node representatives, and regional contractors—at relevant scientific conferences, with appropriate materials, presentations, and training workshops
+* Support integration of GBIF data and training into higher education curricula and the professional development of early-career biodiversity researchers
+
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds
