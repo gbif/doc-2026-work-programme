@@ -1,24 +1,20 @@
-== Preface
+[[introduction]]
+== Introduction 
 
-// This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
+The GBIF 2025 Work Programme received approval from the GBIF Governing Board at its https://gb31.gbif.org[31st meeting^] in Vairão, Portugal, on 3 October 2024. It serves as an update to the https://doi.org/10.35035/doc-b226-sb32[2024 Work Programme^] and the third year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
 
-=== Epigraph
+As described in the previous work programmes, the approach of the implementation plan is to address the strategic priorities through several multi-year activities, each with projected outcomes over the five years. As this document is written halfway through the year, the identification of indicative tasks for 2025 is necessarily tentative and based on our current projections for the progress of the indicative tasks agreed for 2024.
 
-[quote, Tacitus]
-mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur.
+The 2025 Work Programme indicates which activities we expect salaried staff will carry out and which through external contracts and/or non-salary expenses. For contracts and expenses, it indicates whether costs would be met from core funds or from supplementary funds and identifies, where possible, the current or potential funding source. The accompanying 2025 GBIF budget funds this Work Programme and is detailed for the Governing Board in a separate document.
 
-=== Abstract
+Last year several small changes were made to Activities and Project Outcomes. This year, we propose to reorganize some Activities and Projected Outcomes in <<priority2,Priority Area 2: Policy and Partnerships>> and <<priority3,Priority Area 3: Community and Capacity>>.
 
-The special guide to something blar de blar blar blar.
+We recognize that our effort in enlarging national participation is closely aligned to our strategic outreach efforts under <<priority2,Priority Area 2: Policy and Partnerships>>. The work of <<priority3,Priority Area 3: Community and Capacity>> continues to focus on node managers and capacity enhancement. This focus does not diminish the importance of connecting all work streams, especially for activities that affect both Heads of Delegations and Node Managers. We are implementing improved cross-team collaboration mechanisms to ensure communication.
 
-=== Preface
+These adjustments have led to the following changes:
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way.
+*	The activity to https://docs.gbif.org/2024-work-programme/en/#activity3-3[“Expand and strengthen national participation”^] has moved from https://docs.gbif.org/2024-work-programme/en/#priority3[Priority Area 3: Community and Capacity^] to <<priority2,Priority Area 2: Policy and Partnerships>> and now appears as <<activity2-1,Activity 2.1>>. 
+*	We also have combined the previous Activities https://docs.gbif.org/2024-work-programme/en/#activity2-1[2.1^], https://docs.gbif.org/2024-work-programme/en/#activity2-2[2.2^] and https://docs.gbif.org/2024-work-programme/en/#activity2-3[2.3^] in Priority Area 2 into a single one, <<activity2-2,Activity 2.2: Support the science-policy interface>>. The projected outcomes under these activities have also been consolidated and rewritten.
+*	https://docs.gbif.org/2024-work-programme/en/#activity2-4[Activity 2.4^] has become <<activity2-3,Activity 2.3>>, but its content is unchanged.
 
-=== Acknowledgments
-
-This section may also be placed at the document’s end.
-
-=== Dedication
-
-Once again to Zelda
+https://orcid.org/0000-0002-5788-9010[**Joe Miller**^], Executive Secretary

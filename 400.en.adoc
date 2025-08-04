@@ -1,0 +1,105 @@
+[[priority4]]
+== Priority Area 4: Infrastructure and data products
+
+*_Maintain and evolve infrastructure to advance biodiversity-related knowledge_*
+
+[[activity4-1]]
+=== Activity 4.1: Enhance robustness of the core GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+* GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
+
+==== Indicative tasks for 2025
+
+* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^] as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation
+* Target audiences and user groups who may benefit from using ChecklistBank’s tools and services for taxonomic data
+*	Maintain deployments of https://www.gbif.org/hosted-portals[hosted portals^] and hosted data repositories (IPTs) 
+*	Maintain GBIF R (https://www.gbif.org/tool/81747/[rgbif^]) and Python (https://www.gbif.org/tool/OlyoYyRbKCSCkMKIi4oIT/[pygbif^]) libraries to follow changes in GBIF public interfaces and support outcomes, including eDNA engagement activities, sampling-event data and data cube capabilities to support the https://b-cubed.eu/[B-Cubed project^]
+*	Mature deployment and operation of software on the Kubernetes technology platform
+** Continually test disaster recovery processes as part of regular operations 
+** Plan capacity and hardware procurement to accommodate growth in volume and use of data
+** Provide environments for development and network-wide testing, particularly related to indexing under revised data standards
+
+** *Expected funding mechanisms and sources*: Core funds: salaried staff, hardware procurement; Supplementary funds: EC grants; potential GEF-8 funds. 
+
+[[activity4-2]]
+=== Activity 4.2: Enhance support services for data publishers and users
+
+==== Projected outcomes for 2027
+
+* The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
+* The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
+
+==== Indicative tasks for 2025
+
+* Mature processes around the ticketing system to managing help desk requests, broadening to train and include regional and thematic contractors
+* Phase out the global use of the GBIF backbone taxonomy and replace it with the Catalogue of Life, providing support for migrating identifiers
+* Provide guidelines for publishing taxonomic checklists through GBIF to contribute towards improvement of the Catalogue of Life
+* Explore opportunities to connect with emerging systems that publish Digital Extended specimen data
+* Support content curation on GRSciColl, coordinate editor and user communities, and improve data processes as outlined in the https://scientific-collections.gbif.org/road-map[current GRSciColl roadmap^]
+* Expand the newly established https://techdocs.gbif.org/en/[technical documentation site^] with clearer guidelines relating to data quality, data-publishing processes and data formatting, including those related to the use of controlled vocabularies
+
+** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds. 
+
+[[activity4-3]]
+=== Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+* Improved user interface to GBIF.org
+* Improved capabilities for GBIF to handle ecological, collections, paleontological and phylogenetic data
+* Data reuse increased through more stable GBIF identifiers
+
+==== Indicative tasks for 2025
+
+* Release new versions of GBIF.org and hosted portal software that provide equivalent functionality and use the same software stack 
+* Collect and address feedback from the open pilot phase of the eDNA Publishing Tool to prepare it for wider use
+* Explore feasibility of enabling services to search for occurrences within eDNA datasets using sequences and taxa to which the sequence aligns  (see also <<activity1-3,§1.3>>)
+* Explore the collaborative development of a tool to publish phylogenetic trees with associated information, such as the material and related sequences
+* Advance capabilities for event-based search, based on prototype co-developed with the Atlas of Living Australia, and explore support for the Humboldt Extension for Ecological Inventories (see also <<activity1-2,§1.2>> and <<activity4-4,§4.4>>)
+* Start improving the representation of marine data in GBIF.org as outlined in the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
+* Improve ability for users to filter data based on categories of dataset origins, including citizen science, eDNA and the business sector (see also <<activity2-3,§2.3>>)
+* Document recommendations for completing metadata and using stable identifiers for individuals (e.g. ORCID iDs), organizations (e.g. ROR IDs) and funders (e.g. OFR IDs), and index fields to enable aggregate views (see also <<activity1-1,§1.1>>)
+* Explore implementation of outcomes from the task group on Indigenous data governance, which may involve adopting https://localcontexts.org/[Local Context labels^] or alternative options at suitable levels within the GBIF infrastructure as the task group develops and clarifies its recommendations (see also <<activity3-2,§3.2>>)
+* Improve data quality by
+** Integrating basic data quality checks into the IPT and implementing emerging publishing models and changes to Darwin Core
+** Streamlining the processes developed for ensuring occurrenceID stability
+** Continuing to explore approaches to annotation capabilities in GBIF.org focused on taxonomic and geographic combinations 
+* Explore alternative platforms and methods for integrating and managing information from literature tracking
+
+** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds.
+
+[[activity4-4]]
+=== Activity 4.4: Drive data standards development
+
+==== Projected outcomes for 2027
+
+* The revised GBIF data model is matured and applicable for use
+* All controlled terms used in GBIF processing are managed in the vocabulary server
+
+==== Indicative tasks for 2025
+
+* Mature publishing model(s) for use,  start preparing technical and user documentation, and release an initial update to the Darwin Core Archive data format that satisfies https://www.gbif.org/new-data-model#_case-studies[case studies^] relating to Materials, Interactions, and Surveys and Monitoring (see also <<activity1-2,§1.2>> and <<activity4-3,§4.3>>).
+* Establish a TDWG task group under the https://www.tdwg.org/community/dwc/[Darwin Core Maintenance Group^], proposing the addition of high-level, habitat-relevant terms (Realm, Biome) and associated controlled vocabularies
+* Continue to accommodate newly interested communities  as part of the data model investigation
+* Continue to mature the unified data model and prepare it as a candidate standard within https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG)
+* Complete data-processing changes required to ensure all vocabularies are read from the vocabulary server
+** Address the specific needs outlined in feedback from the Paleontology community 
+** Evaluate workflows for involving the volunteer translator community
+* Support the work of vocabulary contributors and lead further vocabulary development
+
+** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds.
+
+[[activity4-ongoing]]
+=== Ongoing activities to support infrastructure and data products
+
+* Maintain software through upgrades, bug fixes, capture and handling of change requests, added functionality) and user support of IPT, hosted portals, GBIF.org, GRSciColl, Registry, ChecklistBank and taxonomic backbone builds
+* Maintain hardware through purchases, installation, supervision/monitoring, optimization, operation planning, screening of future needs
+* Upgrade infrastructure to the latest possible versions of widely used frameworks and cluster technology for web services stack, search engines and distributed data platforms
+* Support systems by monitoring and remediating risks from technical debt, operational supervision and issue handling
+* Provide in-house support for error diagnostics, installation support, load tracking, training
+* Provide general help desk support through email, https://github.com/gbif/portal-feedback[GitHub^] and the new ticketing system
+* Support data users by maintaining rgbif and pygbif libraries, custom downloads and API access
+* Support  data publishers through IPT, data formats, error diagnostics and custom metrics
+* Support training via webinars, individual appointments, documentation, videos and workshops
