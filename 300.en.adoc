@@ -10,18 +10,17 @@
 
 * The GBIF network, its audiences and its wider communities of practice are equipped with robust evidence that demonstrates its value and relevance to science, policy and society
 
-==== Indicative tasks for 2025
+==== Indicative tasks for 2026
 
-* Complete update to the https://doi.org/10.15468/doc-6yp9-9885[GBIF Communications Strategy^], revising and revisiting key audiences and messages to account for changes and advances since its publication in 2015
-* Develop simple, clear messaging that highlights GBIF’s role as a data infrastructure and network supporting open data, open science and policymaking, along with materials, use cases and concrete examples for global, national and thematic communities
-* Consolidate social media strategy, aligning it with values described in the GBIF strategic framework
-* Promote the second series of animated videos on priority thematic areas of relevance through social media campaigns and continue to refresh thematic content for both new and existing communities
-* Support and promote GBIF collaborations with OBIS, GEO BON and TDWG at the Datos Vivos/Living Data 2025 Conference aligned with GB32 in Colombia 
-* Plan and prepare processes for following up from the first GBIF ESG/sustainability baseline report (see https://docs.gbif.org/2024-work-programme/en/#indicative-tasks-for-2024-4[WP24 §2.2^])
-* Develop approach for national reporting on the annual value of volunteers to the GBIF network, possibly in connection with an update of the annual country reports
-* Communicate how the GBIF Strategic Framework is taking on the role of the _alliance for biodiversity knowledge_ 
+* Steward GBIF’s brand identity and support its application and extension across the network 
+* Publish a paper detailing GBIF’s governance, community, infrastructure and content that can serve as a general reference for citing GBIF as an infrastructure and describe GBIF after 25 years
+* Create, design and implement framework for GBIF annual reports
+* Develop materials and support training activities around the Darwin Core Data Package
+* Coordinate a consistent and structured approach toward community engagement and communication with nodes, thematic communities and other communities of practice 
+* Evaluate the operations and effectiveness of GBIF awards programmes
+* Assess options to ensure the future sustainability and impact of the literature tracking programme
 
-** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel.
+<!-- *** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel. -->
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
@@ -31,19 +30,20 @@
 * GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
 * The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
 
-==== Indicative tasks for 2025
+==== Indicative tasks for 20262026
 
-* Organize the second Node Awards programme, building on lessons learned from its first year 
-* Working with the NSG, scope a series of engagement and training events for nodes within the context of the Global Nodes Meeting and Training, GB32 and Datos Vivos/Living Data 2025 conference
-* Organize an in-person knowledge exchange meeting for all members of the regional support teams alongside the Global Nodes Meeting to align their services to the work of the national nodes and GBIF Secretariat 
-* Support the work of a task group on Indigenous data governance  (see also <<activity4-3,§4.3>>), including an in-person event alongside the Global Nodes Meeting and Training to facilitate discussion with the nodes
-* Develop additional modules for the node development curriculum, based on consultation with the nodes community
-* Roll out an updated capacity self-assessment tool for nodes based on review in 2024
-* Request community feedback to inform updates to the nodes guidance documents
-* Support participation by the nodes community in piloting tools and processes that emerge from the work on the new data model
-* Following the regional engagement meeting held in 2024, organize a virtual course on GBIF formal Participation and establishing participant nodes for the Arab States
+* Work with the Nodes Steering Group (NSG) to evaluate how to enhance the impact of the Node Awards programme in advance of its next implementation in 2027 (see §3.1)
+* Support the organization of six regional nodes meetings
+* Explore the role of regional support teams in onboarding new node managers and re-onboarding inactive nodes
+* Refine handbooks for regional representatives and regional support team members by providing complementary practical guidance
+* Continue support for the task group on Indigenous data governance and build on its recommendations for guidance materials to enable the GBIF community to implement the https://datascience.codata.org/articles/10.5334/dsj-2020-043#the-care-principles-and-their-supporting-concepts[CARE Principles^]
+* Incorporate training modules from the Global Nodes training into the node development curriculum and consult with nodes to plan new modules 
+* Assess and refine (as needed) the updated capacity self-assessment tool for national nodes with the NSG
+* Update guidance and course materials to clarify the roles of both national and organizational nodes (see also <<§2.1,activity2-1>>)
+* Recruit the nodes community to pilot tools and processes for publishing and using DwC-DP
+* Organize a virtual course on joining GBIF as a formal Participant and establishing a Participant node
 
-** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group). 
+<!-- ** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group). -->
 
 [[activity3-3]]
 === Activity 3.3: Develop capacity and skills
@@ -53,28 +53,31 @@
 * GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
 * Additional training and guidance resources are available to the community in multiple languages covering both data mobilization and data use
 
-==== Indicative tasks for 2025
+==== Indicative tasks for 2026
 
-* Launch calls for project proposals for the BID programme in the target regions, including (at minimum) Africa, Pacific and Caribbean 
-* Maintain and consolidate the existing regional support teams to complement the work of nodes
-* Develop and implement induction plan for new members of the BID regional support teams, ensuring the overall coordination and alignment of their work with GBIF Strategic framework and Nodes implementation plan
-* In alignment with regional priorities and the BID programme objectives, update and translate materials within GBIF training courses 
-* Monitor the implementation of the new format developed for the GBIF Capacity Enhancement Support Programme (CESP) in 2024 and collate and document best practices for CESP call in 2025
-* Explore the use of capacity self-assessments in tracking progress across all levels (individual, institutional, national and regional) of the capacity development framework 
+* Finalize the selection processes for the BID calls for proposals in and across target regions of Africa, the Pacific, and Latin America and the Caribbean (LAC)
+* Launch BID-funded projects with regional kick-off webinars
+* Work with regional support teams to deliver virtual and on-site training workshops to complement the work of the nodes and engage the broader community of practice 
+* Coordinate the work and skills development of regional support teams to ensure they provide effective support of data mobilization and use
+* Organize three BID regional capacity enhancement workshops for funded project teams using updated and translated materials
+* Use a new reporting format developed for CESP grantees to monitor progress towards the goals in the capacity development framework
+* Roll out capacity self-assessments and capacity indicators to monitor capacity and progress across all levels
 
-** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^].
+<!-- ** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^]. -->
 
 [[activity3-ongoing]]
 === Ongoing activities to support community and capacity
 
-* Organize annual calls for projects under the Capacity Enhancement Support Programme (CESP): €80,000 from core funds for 2025
+* Organize annual calls for projects under the Capacity Enhancement Support Programme (CESP): contingent on funding
 * Support for new node managers through the node onboarding programme
 * Support proposals to the hosted portal programme
 * Support the Living Atlases community, including financial contribution to support a technical coordinator
 * Provide support for digital documentation and related community consultation processes
-* Operate effective communication channels that produce and disseminate news items and thematic content on GBIF.org, through publisher newsletters and other communications with nodes
-* Maintain cycle of biennial regional nodes meetings with global node activities at GB32 and initiation of planning for regional meetings in 2026
+* Operate effective communications that produce and disseminate news items and thematic content via GBIF.org, newsletters, social media and other relevant channels
+* Maintain biennial cycle of nodes meetings with 2026 regional meetings and planning for global node activities at GB34
 * Coordinate work of volunteers, including mentors, ambassadors, translators and reviewers
-* Maintain and refine GBIF's training curricula
-* Support Biodiversity Information Standards (TDWG) community through financial and organizational contributions towards annual meetings, including collaboration on the Datos Vivos/Living Data 2025 conference
+* Maintain and refine GBIF’s training curricula and support community reuse of these materials
 * Provide regular technical support hours for nodes
+* Support the GBIF Data Use club
+
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds.
