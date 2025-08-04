@@ -2,12 +2,12 @@
 
 === Suggested citation
 
-GBIF Work Programme 2025: Annual Update and Implementation Plan to Strategic Framework 2023–2027 (2024) GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-h21p-zr08
+GBIF Work Programme 2026: Annual Update and Implementation Plan to Strategic Framework 2023–2027 (2025) Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-dw7j-ff14
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-h21p-zr08
+https://doi.org/10.35035/doc-dw7j-ff14
 
 === Document control
 
-v1.0.0, approved by GBIF Governing Board, 3 October 2024
+v0.1.0, first review draft for GBIF nodes community, 8 Aug 2025

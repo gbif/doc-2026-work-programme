@@ -1,10 +1,10 @@
-https://docs.gbif-uat.org/2025-work-programme/en/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Work Programme 2025]]
-https://doi.org/10.35035/doc-b226-sb32[image:https://zenodo.org/badge/DOI/10.35035/doc-b226-sb32.svg[doi:10.35035/doc-b226-sb32]]
+https://docs.gbif-uat.org/2026-work-programme/en/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Work Programme 2026]]
+https://doi.org/10.35035/doc-dw7j-ff14[image:https://zenodo.org/badge/DOI/10.35035/doc-dw7j-ff14.svg[doi:10.35035/doc-dw7j-ff14]]
 https://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/Deed-CC0-lightgrey.svg[CC0]]
-https://builds.gbif.org/job/doc-2025-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2025-work-programme/badge/icon[Build status]]
+https://builds.gbif.org/job/doc-2025-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2026-work-programme/badge/icon[Build status]]
 
-= GBIF 2025 Work Programme 
+= GBIF 2026 Work Programme 
 
-Repository for the source of the document for the GBIF Work Programme 2025, developed under the https://doi.org/10.35035/doc-0kkq-0t82[2023–2027 Strategic Framework^].
+Repository for the source of the document for the GBIF Work Programme 2026, developed under the https://doi.org/10.35035/doc-0kkq-0t82[2023–2027 Strategic Framework^].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines^]. Outputs can be designed as needed, but generated HTML and PDF outputs are based on the compilation parameters defined in the file in this repository.
