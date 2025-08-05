@@ -162,4 +162,4 @@ The following GBIF products and services are supported through coordinated proce
 * Coordination, collaboration and integration of GBIF software, vocabularies and services with other projects; notably the Living Atlases community and OBIS
 * Contribution to key Open Source Software libraries that GBIF relies upon 
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. 
+<!--- *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. --->
