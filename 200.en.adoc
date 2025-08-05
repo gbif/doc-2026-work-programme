@@ -21,7 +21,7 @@
 * Develop and publish a practical guidance note for integrating GBIF tools and services into GEF https://www.thegef.org/publications/system-transparent-allocation-resources-star[System for Transparent Allocation of Resources^] (STAR) programming and national biodiversity finance strategies
 * Coordinate with UN Environment Programme (UNEP) and UN Development Programme (UNDP) to ensure GBIF data services are reflected in at least one approved STAR proposal
 
- // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel.  
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel.  
 
 [[activity2-2]]
 === Activity 2.2: Support the science-policy interface 
@@ -39,7 +39,7 @@
 * Develop data cube use cases through the EU-funded project, Biodiversity Building Blocks for Policy (B-Cubed) with a view to refining cube specifications to improve their uptake
 * Promote the use of the Catalogue of Life (COL) taxonomic services supported by ChecklistBank in international fora and infrastructures
 
- // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: EC grant.  
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: EC grant.  
 
 [[activity2-3]]
 === Activity 2.3: Support nature-positive outcomes from decisions in the business, financial and productive sectors
@@ -55,7 +55,7 @@
 * Continue collaboration with the https://tnfd.global/[Taskforce on Nature-based Financial Disclosures^] (TNFD), including engaging as a data provider within the proposed Nature-related Data Public Facility (NDPU)
 * Extend collaboration with Esri and build on support of integrated access to GBIF-mediated data within ArcGIS Desktop software
 
- // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund.  
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund.  
 
 [[activity2-ongoing]]
 === Ongoing activities to support policy and partnerships

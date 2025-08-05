@@ -20,7 +20,7 @@
 * Evaluate the operations and effectiveness of GBIF awards programmes
 * Assess options to ensure the future sustainability and impact of the literature tracking programme
 
- // *** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel.  
+// *** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel.  
 
 [[activity3-2]]
 === Activity 3.2: Support and strengthen GBIF nodes
@@ -43,7 +43,7 @@
 * Recruit the nodes community to pilot tools and processes for publishing and using DwC-DP
 * Organize a virtual course on joining GBIF as a formal Participant and establishing a Participant node
 
- // ** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group).  
+// ** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group).  
 
 [[activity3-3]]
 === Activity 3.3: Develop capacity and skills
@@ -63,7 +63,7 @@
 * Use a new reporting format developed for CESP grantees to monitor progress towards the goals in the capacity development framework
 * Roll out capacity self-assessments and capacity indicators to monitor capacity and progress across all levels
 
- // ** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^].  
+// ** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^].  
 
 [[activity3-ongoing]]
 === Ongoing activities to support communit y and capacity
