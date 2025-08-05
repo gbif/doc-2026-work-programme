@@ -21,7 +21,7 @@ NOTE: _Many previous tasks from §4.1 are now part of ongoing operations below_
 * Improve automation of full data reprocessing to support monthly updates to the taxonomic backbone
 * Evaluate current processes and the impact of efforts to stabilize occurrence identifiers; revise approaches if necessary
 
-<!-- ** *Expected funding mechanisms and sources*: Core funds: salaried staff, hardware procurement; Supplementary funds: EC grants; potential GEF-8 funds. -->
+// ** *Expected funding mechanisms and sources*: Core funds: salaried staff, hardware procurement; Supplementary funds: EC grants; potential GEF-8 funds.  
 
 [[activity4-2]]
 === Activity 4.2: Enhance support services for data publishers and users
@@ -43,7 +43,7 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 * Continue expanding technical documentation, focusing on publishing and services using Darwin Core Data Packages, GRSciColl, and the Registry
 * Prepare and secure community input and review of updates to GBIF data user and data publisher agreements that comply with https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-02-en.pdf[CBD COP Decision 16/2: Digital sequence information and genetic resources^]
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds. -->
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds.  
 
 [[activity4-3]]
 === Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
@@ -74,7 +74,7 @@ NOTE: _Many previous tasks from §4.32026 are now part of ongoing operations bel
 * Evaluate current processes related to occurrenceID stability and transition to more stable automation
 * Continue implementing outcomes from the task group on Indigenous data governance, including adoption of Local Contexts labels at appropriate levels within the GBIF infrastructure
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds. ->>
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds. ->>
 
 [[activity4-4]]
 === Activity 4.4: Drive data standards development
@@ -91,7 +91,7 @@ NOTE: _Many previous tasks from §4.32026 are now part of ongoing operations bel
 * Continue work on habitat-relevant terms (Realm, Biome) and associated controlled vocabularies within the Darwin Core Task Group
 * Continue exploring use cases for the data model, particularly those related to improved taxonomic checklist publishing and the targeted use of aggregate data from https://www.gbif.org[GBIF.org^]
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds. -->
+//  *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds.  
 
 [[activity4-ongoing]]
 === Ongoing activities to support infrastructure and data products
