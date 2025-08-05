@@ -19,7 +19,7 @@
 * Identify opportunities to integrate content from existing biodiversity data networks and repositories into GBIF, and demonstrate the benefits of increased visibility through the GBIF platform
 * Ensure GBIF’s leadership by advocating for and participating in global initiatives that promote open science and open data
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project. -->
+ // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.  
 
 [[activity1-2]]
 === Activity 1.2: Advance GBIF’s capacity to mediate biodiversity survey and monitoring data and increase the spatiotemporal and taxonomic breadth of survey and monitoring data mediated by GBIF
@@ -38,7 +38,7 @@
 * Showcase sampling-event data representation using both existing and new data models in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., ESA, Society for Tropical Ecology, ICES Annual Science Conference)
 * Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds.-->
+ // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds. 
 
 [[activity1-3]]
 === Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
@@ -56,7 +56,7 @@
 * Explore the feasibility of managing and/or hosting a global catalogue of DNA reference libraries to enhance the interpretability and reuse of sequence-based biodiversity evidence
 * Engage with major data providers and repositories of DNA sequences to scale up and improve data publishing pipelines and mobilize additional DNA-derived biodiversity data into GBIF
 
-<!-- *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds. -->
+ // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential EC grant and GEF-8 funds.  
 
 [[activity1-ongoing]]
 === Ongoing activities to support science and research
