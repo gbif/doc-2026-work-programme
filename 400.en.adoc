@@ -56,7 +56,7 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 
 ==== Indicative tasks for 2026
 
-NOTE: _Many previous tasks from §4.32026 are now part of ongoing operations below_
+NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 
 * Develop the Metabarcoding Data Toolkit (MDT) through the ongoing pilot Metabarcoding Data Programme
 ** Improve usability based on community feedback
@@ -74,7 +74,7 @@ NOTE: _Many previous tasks from §4.32026 are now part of ongoing operations bel
 * Evaluate current processes related to occurrenceID stability and transition to more stable automation
 * Continue implementing outcomes from the task group on Indigenous data governance, including adoption of Local Contexts labels at appropriate levels within the GBIF infrastructure
 
-// *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds. ->>
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds.
 
 [[activity4-4]]
 === Activity 4.4: Drive data standards development
