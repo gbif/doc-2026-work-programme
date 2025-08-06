@@ -18,8 +18,8 @@
 * Finalize guidance documents for Other Associate Participants (see <<activity3-2,§3.2>>)
 * Review roles and functions of Other Associate Participants to clarify partnerships and strengthen participation, in consultation with the Executive Committee
 * Develop and promote a clear value proposition for funders that aligns regional and thematic engagement with GBIF’s mission, and identify pipelines to channel funding into special purpose funds or targeted regional support mechanisms
-* Develop and publish a practical guidance note for integrating GBIF tools and services into GEF https://www.thegef.org/publications/system-transparent-allocation-resources-star[System for Transparent Allocation of Resources^] (STAR) programming and national biodiversity finance strategies
-* Coordinate with https://www.unep.org[UN Environment Programme^] (UNEP) and https://www.undp.org[UN Development Programme^] (UNDP) to ensure GBIF data services are reflected in at least one approved STAR proposal
+* Develop and publish a practical guidance note for integrating GBIF tools and services into national biodiversity finance strategies and related funding frameworks
+* Coordinate with https://www.unep.org[UN Environment Programme^] (UNEP) and https://www.undp.org[UN Development Programme^] (UNDP) to ensure GBIF data services are reflected in at least one approved proposal under a national biodiversity strategy and action plan or other public funding mechanism
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel.  
 
