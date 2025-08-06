@@ -36,7 +36,7 @@
 * Renew memoranda of cooperation with at least three key international partners, such as  Group on Earth Observations Biodiversity Observation Network (GEO BON), UNEP, UN Food and Agriculture Organization (FAO), European Commission (EC)) to support shared policy objectives and increase visibility
 * Strengthen GBIF’s contributions to CBD national reporting and https://www.cbd.int/gbf[Kunming-Montreal Global Biodiversity Framework^] (GBF) indicators through targeted collaboration with national focal points and indicator agencies
 * Consolidate and promote policy use cases from across the network on other multilateral agreements, such as the https://www.ramsar.org/[Convention on Wetlands^] (Ramsar), the https://cites.org/eng[Convention on International Trade in Endangered Species of Wild Fauna and Flora^] (CITES), the https://www.cms.int/[Convention on the Conservation of Migratory Species of Wild Animals^] (CMS) and the https://www.unccd.int/[UN Convention to Combat Desertification^] (UNCCD), ensuring alignment with reporting frameworks and highlighting GBIF’s role in supporting implementation
-* Develop data cube use cases through the EU-funded project, Biodiversity Building Blocks for Policy (B-Cubed) with a view to refining cube specifications to improve their uptake
+* Develop data cube use cases through the EU-funded https://b-cubed.eu[Biodiversity Building Blocks for Policy^] project (B-Cubed) to refine cube specifications and promote further uptake
 * Promote the use of the Catalogue of Life (COL) taxonomic services supported by ChecklistBank in international fora and infrastructures
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: EC grant.  
