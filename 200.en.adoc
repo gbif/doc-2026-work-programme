@@ -15,7 +15,7 @@
 ==== Indicative tasks for 2026
 
 * Explore the use of regional meetings or other consultation formats to scope, strengthen and operationalize engagement with the UN https://www.cbd.int/[Convention on Biological Diversity^] (CBD) https://www.cbd.int/tsc/tscm/regionalcentres[regional and subregional support centres^] 
-* Finalize guidance documents for Other Associate Participants (see <<§3.2,activity3-2>>)
+* Finalize guidance documents for Other Associate Participants (see <<activity3-2,§3.2>>)
 * Review roles and functions of Other Associate Participants to clarify partnerships and strengthen participation, in consultation with the Executive Committee
 * Develop and promote a clear value proposition for funders that aligns regional and thematic engagement with GBIF’s mission, and identify pipelines to channel funding into special purpose funds or targeted regional support mechanisms
 * Develop and publish a practical guidance note for integrating GBIF tools and services into GEF https://www.thegef.org/publications/system-transparent-allocation-resources-star[System for Transparent Allocation of Resources^] (STAR) programming and national biodiversity finance strategies
@@ -52,7 +52,7 @@
 ==== Indicative tasks for 2026
 
 * Increase targeted engagement with trade associations, certification schemes and environmental consultancies to introduce datasharing principles across their communities of practice
-* Continue collaboration with the https://tnfd.global/[Taskforce on Nature-based Financial Disclosures^] (TNFD), including engaging as a data provider within the proposed Nature-related Data Public Facility (NDPU)
+* Continue collaboration with the https://tnfd.global/[Taskforce on Nature-based Financial Disclosures^] (TNFD), including engaging as a data provider within the proposed Nature-related Data Public Facility (NDPF)
 * Extend collaboration with Esri and build on support of integrated access to GBIF-mediated data within ArcGIS Desktop software
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund.  
@@ -67,7 +67,7 @@
 * Support national and regional engagement with CBD focal points and subregional support centres to align technical collaboration and data use with GBIF capabilities
 * Maintain ongoing partnership coordination with GEO BON, OBIS, and other global biodiversity data initiatives
 * Continue to maintain and strengthen collaborations with key regional partners and contractors, including review and support for non-country participants
-* Maintain bilateral engagement with multilateral environmental funds and agencies, including GEF, UNEP, and FAO, to align funding strategies and support proposals //
+* Maintain bilateral engagement with multilateral environmental funds and agencies, including GEF, UNEP, and FAO, to align funding strategies and support proposals
 * Continue policy-level engagement and fundraising for One Health/Pandemic Prevention (Quadripartite: WOAH, FAO, WHO, UNEP)
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. 
