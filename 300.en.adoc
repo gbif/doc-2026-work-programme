@@ -66,9 +66,9 @@
 // ** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^].  
 
 [[activity3-ongoing]]
-=== Ongoing activities to support communit y and capacity
+=== Ongoing activities to support community and capacity
 
-* Organize annual calls for projects under the Capacity Enhancement Support Programme (CESP): contingent on funding
+* Organize annual calls for projects under the Capacity Enhancement Support Programme (CESP)
 * Support for new node managers through the node onboarding programme
 * Support proposals to the hosted portal programme
 * Support the Living Atlases community, including financial contribution to support a technical coordinator
