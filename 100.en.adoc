@@ -32,10 +32,10 @@
 ==== Indicative tasks for 2026
 
 * Demonstrate publishing of survey and monitoring data in Darwin Core Archive (DwC-A) format from all continents and realms; explore streamlining data pipelines to enhance interoperability with new and existing publishing institutions (e.g. eLTER, NEON, EDI)
-* Support the implementation of the data model by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing
+* Support the implementation and further development of the proposed Darwin Core Data Package format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing
 * Inform infrastructure development to support both event-centric DwC-A data and Darwin Core Data Package (DwC-DP) data, including ingestion, discoverability, display and access
 * Update existing and develop new training materials and use cases to support the publishing and access of survey and monitoring data through GBIF
-* Showcase sampling-event data representation using both existing and new data models in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., ESA, Society for Tropical Ecology, ICES Annual Science Conference)
+* Showcase sampling-event data representation using both Event-based Darwin Core Archives and Darwin Core Data Packages in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., ESA, Society for Tropical Ecology, ICES Annual Science Conference)
 * Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds. 
