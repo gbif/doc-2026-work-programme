@@ -30,7 +30,7 @@
 * GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
 * The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
 
-==== Indicative tasks for 20262026
+==== Indicative tasks for 2026
 
 * Work with the Nodes Steering Group (NSG) to evaluate how to enhance the impact of the Node Awards programme in advance of its next implementation in 2027 (see §3.1)
 * Support the organization of six regional nodes meetings
@@ -39,7 +39,7 @@
 * Continue support for the task group on Indigenous data governance and build on its recommendations for guidance materials to enable the GBIF community to implement the https://datascience.codata.org/articles/10.5334/dsj-2020-043#the-care-principles-and-their-supporting-concepts[CARE Principles^]
 * Incorporate training modules from the Global Nodes training into the node development curriculum and consult with nodes to plan new modules 
 * Assess and refine (as needed) the updated capacity self-assessment tool for national nodes with the NSG
-* Update guidance and course materials to clarify the roles of both national and organizational nodes (see also <<§2.1,activity2-1>>)
+* Update guidance and course materials to clarify the roles of both national and organizational nodes (see also <<activity2-1,§2.1>>)
 * Recruit the nodes community to pilot tools and processes for publishing and using DwC-DP
 * Organize a virtual course on joining GBIF as a formal Participant and establishing a Participant node
 
