@@ -64,7 +64,7 @@
 * Provide scientific advice and recommendations on feasibility and research relevance to support GBIF’s involvement in relevant projects under the Work Programme
 * Maintain and update guides, training materials, and other resources aimed at research audiences
 * Monitor the needs of data originators and users across the GBIF network, including survey and monitoring partners, DNA data infrastructures, the eDNA community, and international and national initiatives
-* Capture and incorporate feedback from research communities to inform the ongoing development of the GBIF data model
+* Capture and incorporate feedback from research communities to inform  ongoing developments of GBIF-led data standards
 * Support the development and maintenance of community standards for priority data areas—such as invasive and alien species, species interactions, survey and monitoring data, and DNA-derived data—through TDWG and other relevant standards bodies
 * Communicate progress on DNA-derived data, survey and monitoring efforts, and other thematic areas to the GBIF network and partners
 * Maintain the GBIF literature tracking programme to document and communicate the use of GBIF-mediated data in research
