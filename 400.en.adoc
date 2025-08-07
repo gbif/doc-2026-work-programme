@@ -66,7 +66,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 * Implement sequence-based occurrence search and improve filtering and download options for DNA-derived data
 * Develop a prototype for continuous taxonomic interpretation of DNA-derived data using reference catalogues
 * Expand capabilities to visualize, search, and download survey and monitoring datasets (event-based data)
-* Implement support for processing Darwin Core Data Package (DwC-DP) datasets and improve visualisations that showcase their richness
+* Implement support for processing https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) datasets and improve visualisations that showcase their richness
 * Improve processing of occurrence records to annotate them using checklist content (e.g. isMarine, isKnownInvasiveSpecies)
 * Explore options for adding additional GIS layers (e.g. elevation, land use) to GBIF.org and Hosted Portal deployments
 * Add the ability to annotate species occurrence maps on GBIF to flag suspicious records

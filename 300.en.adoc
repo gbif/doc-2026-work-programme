@@ -41,7 +41,7 @@
 * Incorporate training modules from the Global Nodes training into the node development curriculum and consult with nodes to plan new modules 
 * Assess and refine (as needed) the updated capacity self-assessment tool for national nodes with the NSG
 * Update guidance and course materials to clarify the roles of both national and organizational nodes (see also <<activity2-1,§2.1>>)
-* Recruit the nodes community to pilot tools and processes for publishing and using DwC-DP
+* Recruit the nodes community to pilot tools and processes for publishing and using https://gbif.github.io/dwc-dp/[Darwin Core Data Packages^] DwC-DP
 * Organize a virtual course on joining GBIF as a formal Participant and establishing a Participant node
 
 // ** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group).  
