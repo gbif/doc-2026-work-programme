@@ -10,4 +10,4 @@ https://doi.org/10.35035/doc-dw7j-ff14
 
 === Document control
 
-v0.1.0, first review draft for GBIF nodes community, 8 Aug 2025
+v0.1.0, first GBIF community review draft, 8 Aug 2025
