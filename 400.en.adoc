@@ -81,7 +81,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 
 ==== Projected outcomes for 2027
 
-* The revised GBIF data model is matured and applicable for use
+* The work to revise the data model used by GBIF is matured and applicable for use
 * All controlled terms used in GBIF processing are managed in the vocabulary server
 
 ==== Indicative tasks for 2026
@@ -89,7 +89,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 * Complete the DwC-DP ratification process in TDWG, and begin promotion, training, and support across the GBIF network
 * Conduct a systematic review of all documentation to reflect changes in standards, https://www.gbif.org[GBIF.org^], and new publishing tools
 * Continue work on habitat-relevant terms (Realm, Biome) and associated controlled vocabularies within the Darwin Core Task Group
-* Continue exploring use cases for the data model, particularly those related to improved taxonomic checklist publishing and the targeted use of aggregate data from https://www.gbif.org[GBIF.org^]
+* Continue exploring use cases that require data modelling work, particularly those related to improved taxonomic checklist publishing and the targeted use of aggregate data from https://www.gbif.org[GBIF.org^]
 
 //  *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds.  
 
