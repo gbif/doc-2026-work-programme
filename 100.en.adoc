@@ -78,4 +78,5 @@
 * Support integration of GBIF data and training into higher education curricula and the professional development of early-career biodiversity researchers
 
 =======
+
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds
