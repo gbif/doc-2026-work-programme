@@ -32,13 +32,13 @@
 ==== Indicative tasks for 2026
 
 * Demonstrate publishing of survey and monitoring data in Darwin Core Archive (DwC-A) format from all continents and realms; explore streamlining data pipelines to enhance interoperability with new and existing publishing institutions (e.g. eLTER, NEON, EDI)
-* Support the implementation and further development of the proposed Darwin Core Data Package format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing
-* Inform infrastructure development to support both event-centric DwC-A data and Darwin Core Data Package (DwC-DP) data, including ingestion, discoverability, display and access
+* Support the implementation and further development of the proposed Darwin Core Data Package (DwC-DP) format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing
+* Inform infrastructure development that supports event-centric data in both DwC-A and DwC-DP formats, including data ingestion, discoverability, display and access
 * Update existing and develop new training materials and use cases to support the publishing and access of survey and monitoring data through GBIF
-* Showcase sampling-event data representation using both Event-based Darwin Core Archives and Darwin Core Data Packages in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., ESA, Society for Tropical Ecology, ICES Annual Science Conference)
+* Showcase sampling-event data representation using both DwC-A and DwC-DP in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., Ecological Society of America, Society for Tropical Ecology, International Council for the Exploration of the Sea (ICES) Annual Science Conference)
 * Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
-// *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: EC grant; potential GEF-8 funds. 
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. 
 
 [[activity1-3]]
 === Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
@@ -77,4 +77,5 @@
 * Ensure GBIF representation—including Secretariat staff, node representatives, and regional contractors—at relevant scientific conferences, with appropriate materials, presentations, and training workshops
 * Support integration of GBIF data and training into higher education curricula and the professional development of early-career biodiversity researchers
 
-*** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds2026
+=======
+*** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds
