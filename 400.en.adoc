@@ -86,7 +86,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 
 ==== Indicative tasks for 2026
 
-* Complete the DwC-DP ratification process in TDWG, and begin promotion, training, and support across the GBIF network
+* Complete the DwC-DP ratification process in TDWG, and begin promotion, training, and support across the GBIF network (see <<activity3-3,§3.3>)
 * Conduct a systematic review of all documentation to reflect changes in standards, https://www.gbif.org[GBIF.org^], and new publishing tools
 * Continue work on habitat-relevant terms (Realm, Biome) and associated controlled vocabularies within the Darwin Core Task Group
 * Continue exploring use cases that require data modelling work, particularly those related to improved taxonomic checklist publishing and the targeted use of aggregate data from https://www.gbif.org[GBIF.org^]
