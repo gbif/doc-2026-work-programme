@@ -32,10 +32,10 @@
 ==== Indicative tasks for 2026
 
 * Demonstrate publishing of survey and monitoring data in Darwin Core Archive (DwC-A) format from all continents and realms; explore streamlining data pipelines to enhance interoperability with new and existing publishing institutions (e.g. eLTER, NEON, EDI)
-* Support the implementation and further development of the proposed https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing (see <<activity3-3,§3.3>)
+* Support the implementation and further development of the proposed https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing (see <<activity3-3,§3.3>>)
 * Inform infrastructure development that supports event-centric data in both DwC-A and DwC-DP formats, including data ingestion, discoverability, display and access
 * Update existing and develop new training materials and use cases to support the publishing and access of survey and monitoring data through GBIF
-* Showcase sampling-event data representation using both DwC-A and DwC-DP in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., Ecological Society of America, Society for Tropical Ecology, International Council for the Exploration of the Sea (ICES) Annual Science Conference) (see <<activity3-3,§3.3>)
+* Showcase sampling-event data representation using both DwC-A and DwC-DP in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., Ecological Society of America, Society for Tropical Ecology, International Council for the Exploration of the Sea (ICES) Annual Science Conference) (see <<activity3-3,§3.3>>)
 * Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. 
