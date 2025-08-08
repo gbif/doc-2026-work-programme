@@ -55,7 +55,7 @@
 
 ==== Indicative tasks for 2026
 
-* Develop materials and support training activities around the DwC-DP
+* Develop materials and support training activities around the DwC-DP and the https://eco.tdwg.org[Humboldt Extension for Ecological Inventories^]
 * Finalize the selection processes for the BID calls for proposals in and across target regions of Africa, the Pacific, and Latin America and the Caribbean (LAC)
 * Launch BID-funded projects with regional kick-off webinars
 * Work with regional support teams to deliver virtual and on-site training workshops to complement the work of the nodes and engage the broader community of practice 
