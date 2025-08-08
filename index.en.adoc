@@ -4,7 +4,7 @@
 :numbered:
 :revnumber: 0.1
 :revdate: 8 August 2025
-:title-logo-image: img/web/logo-gbif.svg
+:title-logo-image: img/logo-gbif.svg
 :icons: font
 :pagenums:
 :license: https://creativecommons.org/publicdomain/zero/1.0/
