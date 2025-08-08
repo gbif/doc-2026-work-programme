@@ -22,7 +22,7 @@
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.  
 
 [[activity1-2]]
-=== Activity 1.2: Advance GBIF’s capacity to mediate biodiversity survey and monitoring data and increase the spatiotemporal and taxonomic breadth of survey and monitoring data mediated by GBIF
+=== Activity 1.2: Increase GBIF’s capacity to share biodiversity survey and monitoring data
 
 ==== Projected outcomes for 2027
 
