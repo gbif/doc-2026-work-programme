@@ -14,7 +14,7 @@
 
 NOTE: _Many previous tasks from §4.1 are now part of ongoing operations below_
 
-* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^]  as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation (continued from 2025)
+* Complete the adoption of https://www.checklistbank.org/[ChecklistBank^]  as part of the core GBIF services for indexing checklist datasets, with updated public GBIF APIs and documentation, with particular consideration of regional requirements (continued from 2025)
 * Optimize the GBIF.org search infrastructure (Elasticsearch) through schema revision and by exploring configurations for dedicated indexing nodes
 * Expand the infrastructure to support download capabilities for the emerging Darwin Core Data Package format
 * Develop data processing pipelines to support ingestion of Darwin Core Data Packages
@@ -37,11 +37,11 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 
 * Mature processes around the ticketing system for managing help desk requests, including training and onboarding regional and thematic contractors (carried over)
 * Develop documentation and guidance for contributing to and migrating to the Extended Release of the Catalogue of Life taxonomic backbone
-* Revise the https://www.gbif.org/tools/data-validator[data validator tool^] to support Darwin Core Data Packages and eDNA-specific datasets, and to incorporate user feedback
+* Revise the https://www.gbif.org/tools/data-validator[data validator tool^] to support Darwin Core Data Packages and eDNA-specific datasets; incorporate user feedback and consider approaches to expansion to include other data checks in the future, for example following work on indigenous data governance.
 * Develop supporting guidance and tools for publishing using the Darwin Core Data Package
-* Support the GRSciColl editor community through training events and explore the feasibility of tracking citations for collections and institutions
+* Support the GRSciColl editor community through training events and explore the feasibility of tracking citations for collections and institutions. Provide regular training to Node managers.
 * Continue expanding technical documentation, focusing on publishing and services using Darwin Core Data Packages, GRSciColl, and the Registry
-* Prepare and secure community input and review of updates to GBIF data user and data publisher agreements that comply with https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-02-en.pdf[CBD COP Decision 16/2: Digital sequence information and genetic resources^]
+* Prepare and secure community input and review of updates to GBIF data user and data publisher agreements that comply with https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-02-en.pdf[CBD COP Decision 16/2: Digital sequence information and genetic resources^]. Consideration for Indigenous Data Governance frameworks and CARE principles will be given where appropriate.
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds.  
 
@@ -70,9 +70,11 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 * Improve processing of occurrence records to annotate them using checklist content (e.g. isMarine, isKnownInvasiveSpecies)
 * Explore options for adding additional GIS layers (e.g. elevation, land use) to GBIF.org and Hosted Portal deployments
 * Add the ability to annotate species occurrence maps on GBIF to flag suspicious records
+* Move the experimental “related records” functionality (clustering) into the production APIs and services
 * Explore options for marine and freshwater spatial filters and a vocabulary for water bodies, in support of the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
 * Evaluate current processes related to occurrenceID stability and transition to more stable automation
 * Continue implementing outcomes from the task group on Indigenous data governance, including adoption of Local Contexts labels at appropriate levels within the GBIF infrastructure
+* Explore alternative sources to GADM.org for filtering records against global administrative boundaries.
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds.
 
