@@ -15,7 +15,7 @@
 
 * Consolidate scientific expertise across the GBIF network—including researchers from national participants, thematic community experts, the Science Committee, and the GBIF Secretariat—to support development of strategic documents, communications, and improvements to GBIF-mediated data and services
 * Expand GBIF’s relevance by engaging high-priority thematic communities of practice, including agrobiodiversity; support knowledge exchange, data flow, and community engagement; and advance thematic reporting, data discoverability, and identification of data gaps and biases
-* Explore and map established and emerging data practices in global research; assess the usability and accessibility of GBIF infrastructure for researchers; and recommend improvements to tools and processes.
+* Explore and map established and emerging data practices in global research; assess the usability and accessibility of GBIF infrastructure for researchers; and recommend improvements to tools and processes
 * Identify opportunities to integrate content from existing biodiversity data networks and repositories into GBIF, and demonstrate the benefits of increased visibility through the GBIF platform
 * Ensure GBIF’s leadership by advocating for and participating in global initiatives that promote open science and open data
 
@@ -35,7 +35,7 @@
 * Support the implementation and further development of the proposed https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) format by developing use cases across biodiversity domains that inform documentation and training resources and demonstrated examples of content publishing (see <<activity3-3,§3.3>>)
 * Inform infrastructure development that supports event-centric data in both DwC-A and DwC-DP formats, including data ingestion, discoverability, display and access
 * Update existing and develop new training materials and use cases to support the publishing and access of survey and monitoring data through GBIF
-* Showcase sampling-event data representation using both DwC-A and DwC-DP in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g., Ecological Society of America, Society for Tropical Ecology, International Council for the Exploration of the Sea (ICES) Annual Science Conference, aiming for a wide geographical spread) (see <<activity3-3,§3.3>>)
+* Showcase sampling-event data representation using both DwC-A and DwC-DP in GBIF; promote and support data mobilization through presentations and workshops at conferences and online platforms (e.g. Ecological Society of America, Society for Tropical Ecology, International Council for the Exploration of the Sea (ICES) Annual Science Conference, aiming for a wide geographical spread) (see <<activity3-3,§3.3>>)
 * Run a data republication campaign to enhance existing occurrence datasets using the https://eco.tdwg.org/[Humboldt Extension for Ecological Inventories^]
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds. 
