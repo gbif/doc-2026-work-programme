@@ -13,10 +13,10 @@
 
 ==== Indicative tasks for 2026
 
-* Consolidate scientific expertise across the GBIF network—including researchers from national participants, thematic community experts, the Science Committee, and the GBIF Secretariat—to support development of strategic documents, communications, and improvements to GBIF-mediated data and services
-* Expand GBIF’s relevance by engaging high-priority thematic communities of practice, including agrobiodiversity; support knowledge exchange, data flow, and community engagement; and advance thematic reporting, data discoverability, and identification of data gaps and biases
+* Consolidate scientific expertise across the GBIF network—including researchers from national participants, thematic community experts, the Science Committee and the GBIF Secretariat—to support development of strategic documents, communications and improvements to GBIF-mediated data and services
+* Expand GBIF’s relevance by engaging high-priority thematic communities of practice, including agrobiodiversity; support knowledge exchange, data flow and community engagement; and advance thematic reporting, data discoverability, and identification of data gaps and biases
 * Explore and map established and emerging data practices in global research; assess the usability and accessibility of GBIF infrastructure for researchers; and recommend improvements to tools and processes
-* Identify opportunities to integrate content from existing biodiversity data networks and repositories into GBIF, and demonstrate the benefits of increased visibility through the GBIF platform
+* Identify opportunities to integrate content from existing biodiversity data networks and repositories into GBIF while demonstrating the benefits of increased visibility through the GBIF platform
 * Ensure GBIF’s leadership by advocating for and participating in global initiatives that promote open science and open data
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, workshops and travel; Supplementary funds: Vector Atlas project.  
@@ -62,8 +62,8 @@
 === Ongoing activities to support science and research
 
 * Provide scientific advice and recommendations on feasibility and research relevance to support GBIF’s involvement in relevant projects under the Work Programme
-* Maintain and update guides, training materials, and other resources aimed at research audiences
-* Monitor the needs of data originators and users across the GBIF network, including survey and monitoring partners, DNA data infrastructures, the eDNA community, and international and national initiatives
+* Maintain and update guides, training materials and other resources aimed at research audiences
+* Monitor the needs of data originators and users across the GBIF network, including survey and monitoring partners, DNA data infrastructures, the eDNA community, and national and global initiatives
 * Capture and incorporate feedback from research communities to inform  ongoing developments of GBIF-led data standards
 * Support the development and maintenance of community standards for priority data areas—such as invasive and alien species, species interactions, survey and monitoring data, and DNA-derived data—through TDWG and other relevant standards bodies
 * Communicate progress on DNA-derived data, survey and monitoring efforts, and other thematic areas to the GBIF network and partners
@@ -74,7 +74,7 @@
 * Coordinate the collection of peer-reviewed articles and other publications describing key concepts and components of the GBIF network and infrastructure
 * Increase the academic visibility of GBIF data and contributions—by individuals, organizations (including funders), and projects—through integration with infrastructures such as https://orcid.org/[ORCID^], https://ror.org/[Research Organization Registry^] (ROR) and https://www.crossref.org/services/funder-registry/[Open Funder Registry^] (OFR)
 * Review and process submissions through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to expand thematic data represented in GBIF
-* Ensure GBIF representation—including Secretariat staff, node representatives, and regional contractors—at relevant scientific conferences, with appropriate materials, presentations, and training workshops
+* Ensure GBIF representation—including Secretariat staff, node representatives and regional contractors—at relevant scientific conferences, with appropriate materials, presentations and training workshops
 * Support integration of GBIF data and training into higher education curricula and the professional development of early-career biodiversity researchers
 
 *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds
