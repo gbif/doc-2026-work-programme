@@ -40,7 +40,7 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 * Revise the https://www.gbif.org/tools/data-validator[data validator tool^] to support Darwin Core Data Packages and eDNA-specific datasets; incorporate user feedback and consider additional data checks in the future, e.g. those related to Indigenous data governance
 * Develop supporting guidance and tools for publishing using the Darwin Core Data Package
 * Support the GRSciColl editor community through training events, explore the feasibility of tracking citations for collections and institutions and provide regular training to node managers
-* Continue expanding technical documentation, focusing on publishing and services using Darwin Core Data Packages, GRSciColl, and the Registry
+* Continue expanding technical documentation, focusing on publishing and services using Darwin Core Data Packages, GRSciColl and the Registry
 * Prepare and secure community input and review of updates to GBIF data user and data publisher agreements that comply with https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-02-en.pdf[CBD COP Decision 16/2: Digital sequence information and genetic resources^], with guidance on CARE Principles and relevant Indigenous data governance frameworks as appropriate
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds.  
@@ -65,7 +65,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 ** Coordinate with communities working on metabarcoding data publication and standards
 * Implement sequence-based occurrence search and improve filtering and download options for DNA-derived data
 * Develop a prototype for continuous taxonomic interpretation of DNA-derived data using reference catalogues
-* Expand capabilities to visualize, search, and download event-based survey and monitoring datasets
+* Expand capabilities to visualize, search and download records from event-based survey and monitoring datasets
 * Implement support for processing https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) datasets and improve visualisations that showcase their richness
 * Improve processing of occurrence records to annotate them using checklist content (e.g. `isMarine`, `isKnownInvasiveSpecies`)
 * Explore options for adding additional GIS layers (e.g. elevation, land use) to GBIF.org and hosted portal deployments
@@ -88,8 +88,8 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 
 ==== Indicative tasks for 2026
 
-* Complete the DwC-DP ratification process in TDWG, and begin promotion, training, and support across the GBIF network (see <<activity3-3,§3.3>>)
-* Conduct a systematic review of all documentation to reflect changes in standards, https://www.gbif.org[GBIF.org^], and new publishing tools
+* Complete the DwC-DP ratification process in TDWG and begin promotion, training and support across the GBIF network (see <<activity3-3,§3.3>>)
+* Conduct a systematic review of all documentation to reflect changes in standards, https://www.gbif.org[GBIF.org^] and new publishing tools
 * Continue work on habitat-relevant terms (Realm, Biome) and associated controlled vocabularies within the Darwin Core Task Group
 * Continue exploring use cases that require data modelling work, particularly those related to improved taxonomic checklist publishing and the targeted use of aggregate data from https://www.gbif.org[GBIF.org^]
 
@@ -102,20 +102,20 @@ The following GBIF products and services are supported through coordinated proce
 
 * *Requirements gathering* through GitHub issues, community webinars, Nodes events,  open forums and mailing lists
 * *Continuous feature development* driven by user feedback and aligned with evolving data standards and best practices
-* *Community support* via technical documentation, a responsive help desk, tutorials (e.g. data-blog.gbif.org), training, reviews of datasets and guides, and coordination of regional support teams, volunteers and translators
-* *Software maintenance* to address technical debt, updating frameworks, and ensuring long-term robustness and security
+* *Community support* via technical documentation, a responsive help desk, tutorials (e.g. https://data-blog.gbif.org[GBIF Data Blog^]), training, reviews of datasets and guides, and coordination of regional support teams, volunteers and translators
+* *Software maintenance* to address technical debt, updating frameworks and ensuring long-term robustness and security
 
 ==== Core Infrastructure and Tools
 
 ===== Integrated Publishing Toolkit (IPT)
 
 * Widely installed data-publishing software used by GBIF Nodes and institutions
-* Also offered as a fully managed, cloud-hosted service by the GBIF Secretariat, including updates, backups, and support
+* Also offered as a fully managed, cloud-hosted service by the GBIF Secretariat, including updates, backups and support
 
 ===== GBIF.org indexing platform and APIs
 
-* Ingests, indexes, and processes data for quality control and enrichment using taxonomic and geospatial resources and controlled vocabularies
-* Supports search, filtering, and download services, along with DOI-based citation tracking
+* Ingests, indexes and processes data for quality control and enrichment using taxonomic and geospatial resources and controlled vocabularies
+* Supports search, filtering and download services, along with DOI-based citation tracking
 
 ===== ChecklistBank.org infrastructure
 
@@ -155,7 +155,7 @@ The following GBIF products and services are supported through coordinated proce
 ===== Data centre operations (Copenhagen University)
 
 * Capacity planning and procurement for physical hardware (3 racks)
-* Server administration, including networking, monitoring, backup, and security
+* Server administration, including networking, monitoring, backup and security
 * Ongoing upgrades to operating systems and distributed computing framework
 
 ===== Manage technical partnerships
