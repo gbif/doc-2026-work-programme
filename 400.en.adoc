@@ -58,7 +58,7 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 
 NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 
-* Develop the Metabarcoding Data Toolkit (MDT) through the ongoing pilot Metabarcoding Data Programme
+* Develop the https://mdt.gbif-test.org[Metabarcoding Data Toolkit^] (MDT) through the ongoing pilot https://www.gbif.org/metabarcoding[Metabarcoding Data Programme^]
 ** Improve usability based on community feedback
 ** Explore packaging options, such as support for local deployments
 ** Improve documentation and support pilot implementations
