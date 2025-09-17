@@ -68,7 +68,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 * Expand capabilities to visualize, search, and download event-based survey and monitoring datasets
 * Implement support for processing https://gbif.github.io/dwc-dp/[Darwin Core Data Package^] (DwC-DP) datasets and improve visualisations that showcase their richness
 * Improve processing of occurrence records to annotate them using checklist content (e.g. `isMarine`, `isKnownInvasiveSpecies`)
-* Explore options for adding additional GIS layers (e.g. elevation, land use) to GBIF.org and Hosted Portal deployments
+* Explore options for adding additional GIS layers (e.g. elevation, land use) to GBIF.org and hosted portal deployments
 * Add the ability to annotate species occurrence maps on GBIF to flag suspicious records
 * Move the experimental “related records” functionality (clustering) into production APIs and services
 * Explore options for marine and freshwater spatial filters and a vocabulary for water bodies, in support of the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
