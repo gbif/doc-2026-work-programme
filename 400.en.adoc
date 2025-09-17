@@ -74,7 +74,7 @@ NOTE: _Many previous tasks from §4.3 are now part of ongoing operations below_
 * Explore options for marine and freshwater spatial filters and a vocabulary for water bodies, in support of the https://doi.org/10.35035/doc-e52v-5875[OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data^]
 * Evaluate current processes related to occurrenceID stability and transition to more stable automation
 * Continue implementing outcomes from the task group on Indigenous data governance, including adoption of Local Contexts labels at appropriate levels within the GBIF infrastructure
-* Explore alternative sources to GADM.org for filtering records against global administrative boundaries
+* Explore alternative sources to https://gadm.org[GADM.org^] for filtering records against global administrative boundaries
 
 // *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds.
 
