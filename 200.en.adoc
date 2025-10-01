@@ -52,7 +52,7 @@
 
 ==== Indicative tasks for 2026
 
-* Increase targeted engagement with trade associations, certification schemes and environmental consultancies to introduce datasharing principles across their communities of practice
+* Increase targeted engagement with trade associations, certification schemes and environmental consultancies to introduce data sharing principles across their communities of practice
 * Continue collaboration with the https://tnfd.global/[Taskforce on Nature-based Financial Disclosures^] (TNFD), including engaging as a data provider within the proposed Nature-related Data Public Facility (NDPF)
 * Continue to engage corporate actors, financial institutions and public development banks to adopt best practices around sharing and acknowledging the use of data from the GBIF network
 * Extend collaboration with Esri and build on support of integrated access to GBIF-mediated data within ArcGIS Desktop software
