@@ -1,7 +1,7 @@
 [[introduction]]
 == Introduction 
 
-The GBIF 2025 Work Programme received approval from the GBIF Governing Board at its https://gb31.gbif.org[31st meeting^] in Vairão, Portugal, on 3 October 2024. It serves as an update to the https://doi.org/10.35035/doc-b226-sb32[2024 Work Programme^] and the third year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
+The GBIF 2026 Work Programme received approval from the GBIF Governing Board at its https://gb32.gbif.org[32nd meeting^] in Bogotá, Colombia, on 20 October 2025. It serves as an update to the https://doi.org/10.35035/doc-b226-sb32[2024 Work Programme^] and the fourth year of implementing the strategic priorities outlined in the https://doi.org/10.35035/doc-0kkq-0t82[2023-2027 GBIF Strategic Framework^].
 
 As described in the previous work programmes, the approach of the implementation plan is to address the strategic priorities through several multi-year activities, each with projected outcomes over the five years. As this document is written halfway through the year, the identification of indicative tasks for 2025 is necessarily tentative and based on our current projections for the progress of the indicative tasks agreed for 2024.
 
