@@ -10,4 +10,4 @@ https://doi.org/10.35035/doc-dw7j-ff14
 
 === Document control
 
-v1.0, 1st final edition: approved at https://gb32.gbif.org/[GB32^] in Bogotá, Colombai, 20 Oct 2025
+v1.0, 1st final edition: approved at https://gb32.gbif.org/[GB32^] in Bogotá, Colombia, 20 Oct 2025
